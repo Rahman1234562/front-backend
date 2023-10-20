@@ -1,0 +1,53 @@
+.img{
+    display: block;
+    margin: auto;
+    border-radius: 120px;
+    height: 80px;
+    width: 90px;
+}
+.container{
+    height: 279px;
+    width: 50%;
+    border: 2px solid #000;
+    margin: auto;
+    padding: 30px;
+    overflow-y: auto;
+    margin-bottom: 20px;
+}
+.message{
+    padding: 10px;
+    background-color: gray;
+    width: 26%;
+    margin: 17px 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.right{
+    float: right;
+    clear: both;
+
+}
+.left{
+    float: left;
+    clear: both;
+
+}
+.send{
+    display: block;
+    margin: auto;
+    max-width: 985px;
+    text-align: center;
+    width: 100%;
+
+}
+.forminp{
+    width: 58%;
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 28px;
+}
+.btn{
+    height: 33px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
